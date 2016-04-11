@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 # PHP Super Closure
 
 [![Latest Stable Version](https://poser.pugx.org/jeremeamia/superclosure/v/stable.png)](https://packagist.org/packages/jeremeamia/superclosure)
